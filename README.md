@@ -12,7 +12,7 @@ A beautiful web-based assistant built using [`Phi`](https://docs.phidata.com/) m
 
 ## ✨ Demo
 
-![Multi-Agent Chat UI](https://github.com/JugalGajjar/Multi-Agent-Financial-Assistant/tree/main/assets/demo.mp4)
+![Multi-Agent Chat UI](https://raw.githubusercontent.com/JugalGajjar/Multi-Agent-Financial-Assistant/main/assets/demo.mp4)
 
 Demo Prompts:
 ```
@@ -90,7 +90,7 @@ Visit 👉 http://127.0.0.1:5000
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![light](https://github.com/JugalGajjar/Multi-Agent-Financial-Assistant/tree/main/assets/light-screenshot.png) | ![dark](https://github.com/JugalGajjar/Multi-Agent-Financial-Assistant/tree/main/assets/dark-screenshot.png) |
+| ![light](https://raw.githubusercontent.com/JugalGajjar/Multi-Agent-Financial-Assistant/main/assets/light-screenshot.png) | ![dark](https://raw.githubusercontent.com/JugalGajjar/Multi-Agent-Financial-Assistant/main/assets/dark-screenshot.png) |
 
 ---
 
