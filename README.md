@@ -12,7 +12,7 @@ A beautiful web-based assistant built using [`Phi`](https://docs.phidata.com/) m
 
 ## ✨ Demo
 
-![Multi-Agent Chat UI](https://raw.githubusercontent.com/JugalGajjar/Multi-Agent-Financial-Assistant/main/assets/demo.mp4)
+![Multi-Agent Chat UI](https://raw.githubusercontent.com/JugalGajjar/Multi-Agent-Financial-Assistant/main/assets/demo.gif)
 
 Demo Prompts:
 ```
