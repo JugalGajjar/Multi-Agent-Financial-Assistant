@@ -14,12 +14,6 @@ A beautiful web-based assistant built using [`Phi`](https://docs.phidata.com/) m
 
 ![Multi-Agent Chat UI](https://raw.githubusercontent.com/JugalGajjar/Multi-Agent-Financial-Assistant/main/assets/demo.gif)
 
-Demo Prompts:
-```
-• What is the current price of NVDA stocks?
-• Tell me briefly about the analyst recommendations for the NVDA stock.
-```
-
 ---
 
 ## 🔧 Features
