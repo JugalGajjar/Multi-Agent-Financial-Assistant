@@ -18,14 +18,14 @@ A beautiful web-based assistant built using [`Phi`](https://docs.phidata.com/) m
 
 ## 🔧 Features
 
-- 🤖 **Multi-Agent Architecture** with task delegation (Finance Agent + Web Search Agent)
-- 🧠 **LLaMA3-8B via Groq API** for fast, accurate language understanding
-- 📈 **Real-Time Finance Tools** via `yfinance`
-- 🔍 **Web Search Agent** with Google Search integration
-- 🧾 **Markdown Support** in responses (tables, code, formatting)
-- 🌙 **Dark/Light Mode Toggle**
-- 💬 **Chat History with Markdown Rendering**
-- 🧪 Built on **Flask** + **HTML** + **JS** + **CSS**
+- **Multi-Agent Architecture** with task delegation (Finance Agent + Web Search Agent)
+- **LLaMA3-8B via Groq API** for fast, accurate language understanding
+- **Real-Time Finance Tools** via `yfinance`
+- **Web Search Agent** with Google Search integration
+- **Markdown Support** in responses (tables, code, formatting)
+- **Dark/Light Mode Toggle**
+- **Chat History with Markdown Rendering**
+- Built on **Flask** + **HTML** + **JS** + **CSS**
 
 ---
 
@@ -110,4 +110,4 @@ Visit 👉 http://127.0.0.1:5000
 
 ## 📄 License
 
-MIT © 2025
+This project is licensed under the MIT License.
