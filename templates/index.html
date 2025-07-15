@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Multi-Agent Chat</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/static/style.css">
+
+    <!-- Marked.js for Markdown rendering -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔗 Multi-Agent Financial Assistant with Web + Stock Analysis</h1>
+            <button id="theme-toggle">🌙 Dark Mode</button>
+        </div>
+
+        <form id="query-form">
+            <input type="text" id="query" placeholder="Ask anything about stocks or the web..." autocomplete="off" />
+            <button type="submit">Send</button>
+        </form>
+
+        <div id="chat-history" class="chat-history"></div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="/static/script.js"></script>
+</body>
+</html>

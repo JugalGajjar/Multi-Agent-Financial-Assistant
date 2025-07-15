@@ -1,0 +1,10 @@
+phidata
+yfinance
+googlesearch-python
+pycountry
+packaging
+fastapi
+uvicorn
+groq
+python-dotenv
+Flask
