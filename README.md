@@ -12,7 +12,7 @@ A beautiful web-based assistant built using [`Phi`](https://docs.phidata.com/) m
 
 ## ✨ Demo
 
-![Multi-Agent Chat UI](https://github.com/JugalGajjar/Multi-Agent-Financial-Assistant/assets/demo.mp4)
+![Multi-Agent Chat UI](https://github.com/JugalGajjar/Multi-Agent-Financial-Assistant/tree/main/assets/demo.mp4)
 
 Demo Prompts:
 ```
@@ -69,7 +69,7 @@ source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
 
-### 3. Update .env file
+### 3. Create .env file
 
 You'll need your Phidata and Groq API key to use the LLaMA3 model:
 ```
@@ -90,7 +90,7 @@ Visit 👉 http://127.0.0.1:5000
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![light](https://github.com/JugalGajjar/Multi-Agent-Financial-Assistant/assets/light-screenshot.png) | ![dark](https://github.com/JugalGajjar/Multi-Agent-Financial-Assistant/assets/dark-screenshot.png) |
+| ![light](https://github.com/JugalGajjar/Multi-Agent-Financial-Assistant/tree/main/assets/light-screenshot.png) | ![dark](https://github.com/JugalGajjar/Multi-Agent-Financial-Assistant/tree/main/assets/dark-screenshot.png) |
 
 ---
 
